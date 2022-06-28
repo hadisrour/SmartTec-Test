@@ -1,6 +1,6 @@
 # SmartTec-Test
-
-npm install
+# Commands 
+npm install ... 
 npm start
 
 # NOT FINISHED... UNDER CONSTRUCTION
